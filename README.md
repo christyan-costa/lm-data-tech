@@ -1,2 +1,1 @@
-# lm-data-tech
-módulo 3 - técnicas de programação I
+## Projetos referentes ao curso "técnicas de programação I - ADA"
