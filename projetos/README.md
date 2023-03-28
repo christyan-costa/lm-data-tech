@@ -3,3 +3,4 @@
 ### Projetos:
 
 - Calculadora
+- Projeto final "Técnicas de programação II"
