@@ -5,3 +5,6 @@
 - Calculadora
 - Projeto final "Técnicas de programação II"
 - Projeto final "Lógica de programação II"
+
+### Descrições:
+- Exemplo de descrição.
