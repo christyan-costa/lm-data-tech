@@ -7,4 +7,4 @@
 - Projeto final "Lógica de programação II"
 
 ### Descrições:
-- Exemplo de descrição
+- Exemplo de descrição.
