@@ -9,4 +9,4 @@
 ### Descrições:
 - Exemplo de descrição.
 - Abobrinha
-- Nova descrição em "outra-branch"
+- Adicionando nova descrição à branch "modificacoes"
