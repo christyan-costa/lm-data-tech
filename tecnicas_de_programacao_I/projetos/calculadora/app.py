@@ -2,7 +2,7 @@
 import os
 import sys
 sys.path.insert(0, os.getcwd())
-from projetos.calculadora import calcule
+from tecnicas_de_programacao_I.projetos.calculadora import calcule
 
 # Executando a aplicação
 calcule()
